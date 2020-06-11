@@ -29,8 +29,7 @@ url: "https://cloudgreenllc.github.io" # the base hostname & protocol for your s
 twitter_username: jekyllrb
 github_username:  jekyll
 
-# Build settings
-theme: just-the-docs
+# Build setting
 plugins:
   - jekyll-feed
 
